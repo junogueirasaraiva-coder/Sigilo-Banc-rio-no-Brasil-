@@ -1,2 +1,2 @@
-# Sigilo-Banc-rio-no-Brasil-
-Uma apresentação básica em .pptx sobre Sigilo Bancário no Brasil 
+#Sigilo Bancário
+## 📒 Apresentação.pptx sobre Sigilo Bancário. Trata-se de uma apresentação contendo apenas os tópicos mais relevantes sobre o tema, sem explicação aprofundada.
